@@ -1,7 +1,8 @@
 # RecipeApp - A Simple Recipe Management Console Application
 
 ## Description
-RecipeApp is a simple console-based application that allows users to manage recipes. Users can enter recipe details, display recipes, scale recipes, reset quantities, clear all data and Exit the application. The application is written in C# and utilizes basic console input and output.
+
+RecipeApp is a user-friendly console application designed to streamline recipe management. With easy input, modification, and organization features, users can effortlessly create culinary delights. Beyond entering details, the app allows for displaying recipes, scaling quantities, resetting measurements, and clearing data. It's the perfect tool for both seasoned chefs and aspiring cooks, offering convenience and efficiency in every culinary adventure.
 
 ## Features:
 Enter Recipe Details: Users can input the ingredients and steps of a recipe, including the name, quantity, and unit of each ingredient.
