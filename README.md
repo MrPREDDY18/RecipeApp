@@ -28,6 +28,18 @@ Follow the on-screen prompts to interact with the application:
 - Clear all data.
 - Exit
 
+Enter recipe details: This option prompts you to input the necessary information for a recipe, including its name, ingredients (quantity and unit), and preparation steps. Simply follow the on-screen prompts to populate the recipe details.
+
+Display recipes: Utilize this option to view the details of a recipe in a neatly formatted manner. Access ingredients, quantities, units, and preparation steps with ease, enhancing your cooking experience.
+
+Scale recipes: Adjust the quantities of ingredients in a recipe effortlessly by selecting this option. Choose from scaling factors of 0.5 (half), 2 (double), or 3 (triple) to tailor the recipe to your desired serving size or preference.
+
+Reset quantities: If you need to revert to the original measurements of ingredients in a recipe, this option is your solution. Resetting quantities ensures accuracy and consistency in your culinary endeavors.
+
+Clear all data: Start afresh by clearing all entered recipe data from memory. This option provides a clean slate for new recipe entries, enabling seamless organization and management.
+
+Exit: Conclude your session with RecipeApp by selecting this option. If you no longer require the application, exiting ensures a smooth transition out of the interface.
+
 ## Contributing
 Contributions to RecipeApp are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or submit a pull request on the GitHub repository.
 
