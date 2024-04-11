@@ -18,8 +18,7 @@ To compile the application, utilize the command dotnet build, which will prepare
 
 This straightforward process ensures that RecipeApp is up and running on your system, ready to streamline your recipe management tasks with its user-friendly features.
 ## Usage
-Choose options from the menu by entering the corresponding number.
-Follow the prompts to enter recipe details, display recipes, scale recipes, reset quantities, clear all data and Exit.
+Navigate through RecipeApp effortlessly using the menu options and their corresponding numbers. Each option caters to specific actions, facilitating seamless interaction with the application.
 
 Follow the on-screen prompts to interact with the application:
 - Enter recipe details.
