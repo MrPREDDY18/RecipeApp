@@ -12,8 +12,11 @@ For added flexibility, RecipeApp enables users to scale the quantities of ingred
 Furthermore, RecipeApp prioritizes user convenience by offering the Clear All Data functionality, allowing users to easily wipe all entered recipe data from memory when starting fresh is necessary. And when users are done with the application, a simple Exit command seamlessly concludes their session. With RecipeApp, managing recipes becomes not just efficient, but also intuitive and hassle-free.
 
 ## Installation
-To run RecipeApp, you need to have the .NET Core SDK installed on your system. Clone or download the repository, navigate to the project directory, and compile the application using `dotnet build`. Then, run the application with `dotnet run`.
+To ensure smooth execution of RecipeApp, it's essential to have the .NET Core SDK installed on your system. Once you've verified this requirement, simply clone or download the repository containing the application. Next, navigate to the project directory within your terminal or command prompt.
 
+To compile the application, utilize the command dotnet build, which will prepare the necessary binaries for execution. Following successful compilation, initiate the application by running the command dotnet run.
+
+This straightforward process ensures that RecipeApp is up and running on your system, ready to streamline your recipe management tasks with its user-friendly features.
 ## Usage
 Choose options from the menu by entering the corresponding number.
 Follow the prompts to enter recipe details, display recipes, scale recipes, reset quantities, clear all data and Exit.
