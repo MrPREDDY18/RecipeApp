@@ -19,13 +19,13 @@ To compile the application, utilize the command dotnet build, which will prepare
 ## Usage
 Navigate through RecipeApp effortlessly using the menu options and their corresponding numbers. Each option caters to specific actions, facilitating seamless interaction with the application.
 
-Follow the on-screen prompts to interact with the application:
-- Enter recipe details.
-- Display recipes.
-- Scale recipes.
-- Reset quantities.
-- Clear all data.
-- Exit
+Follow the on-screen prompts using number's 1-6 to interact with the application:
+-1. Enter recipe details.
+-2. Display recipes.
+-3. Scale recipes.
+-4. Reset quantities.
+-5. Clear all data.
+-6. Exit
 
 Enter recipe details: This option prompts you to input the necessary information for a recipe, including its name, ingredients (quantity and unit), and preparation steps. Simply follow the on-screen prompts to populate the recipe details.
 
