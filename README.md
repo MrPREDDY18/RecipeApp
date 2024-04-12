@@ -16,7 +16,6 @@ To ensure smooth execution of RecipeApp, it's essential to have the .NET Core SD
 
 To compile the application, utilize the command dotnet build, which will prepare the necessary binaries for execution. Following successful compilation, initiate the application by running the command dotnet run.
 
-This straightforward process ensures that RecipeApp is up and running on your system, ready to streamline your recipe management tasks with its user-friendly features.
 ## Usage
 Navigate through RecipeApp effortlessly using the menu options and their corresponding numbers. Each option caters to specific actions, facilitating seamless interaction with the application.
 
