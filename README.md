@@ -1,4 +1,4 @@
-# RecipeApp - A Simple Recipe Management Console Application
+# RecipeApp - Recipe Management Console Application
 
 ## Description
 
