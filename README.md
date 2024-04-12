@@ -53,5 +53,5 @@ For any inquiries, assistance, or support regarding RecipeApp, please don't hesi
 
 We're committed to ensuring your experience with RecipeApp is seamless and enjoyable. Whether you have feedback, suggestions for improvements, or need technical assistance, we're here to help.
 
-
+Thank you for choosing RecipeApp for your recipe management needs. I'm excited to assist you in making your culinary adventures more organized and delightful!
 
